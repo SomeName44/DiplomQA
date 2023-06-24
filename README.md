@@ -19,9 +19,9 @@
 ### Тестовая документация:
 [План тестирования;](https://github.com/SomeName44/DiplomProject/blob/main/Plan.md)
 
-[Отчёт по итогам тестирования;](https://github.com/SomeName44/DiplomProject/blob/main/Report.md)
+[Отчёт по итогам тестирования;](https://github.com/SomeName44/DiplomQA/blob/main/Report.md)
 
-[Отчет по итогам автоматизации](https://github.com/SomeName44/DiplomProject/blob/main/Summary.md)
+[Отчет по итогам автоматизации](https://github.com/SomeName44/DiplomQA/blob/main/Summary.md)
 
 ### Запуск приложения
 ## Подготовительный этап
@@ -63,3 +63,15 @@ _Для PostgresSQL:_
 Предусмотрено формирование отчётности через Allure. Для этого в новой вкладке терминала вводим команду
 
 **gradlew allureServe**
+
+**Завершения работы Sut**
+
+Для завершения работы SUT, необходимо в терминале, где был запущен SUT, ввести команду:
+
+Ctrl+C
+
+**Остановка и удаление контейнера**
+
+Для остановки работы контейнеров "Docker-Compose", необходимо ввести в терминал следующую команду:
+
+docker-compose down
