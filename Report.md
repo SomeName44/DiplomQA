@@ -10,13 +10,18 @@
 Всего было проведено 46 тестовых сценариев. 
 
 Общий процент тестов: 
-31 успешных – что составляет 63,37 %
-15 не успешных – что составляет 32.63 %
-
-![d1da9db395.jpg](..%2F..%2FUsers%2FAdmin%2FDesktop%2FPicture%2Fd1da9db395.jpg)
+31 успешных – что составляет 67,39 %
+15 не успешных – что составляет 32.61 %
 
 
-![80207cbef6.jpg](..%2F..%2FUsers%2FAdmin%2FDesktop%2FPicture%2F80207cbef6.jpg)
+
+![d1da9db395.jpg](Picture%2Fd1da9db395.jpg)
+
+![f2c049ee27.jpg](Picture%2Ff2c049ee27.jpg)
+
+![e4764a89e8.jpg](Picture%2Fe4764a89e8.jpg)
+
+![80207cbef6.jpg](Picture%2F80207cbef6.jpg)
 
 В ходе тестирования было составлено 8 issue
 ## Общие рекомендации
